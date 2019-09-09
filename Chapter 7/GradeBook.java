@@ -26,7 +26,7 @@ public class GradeBook
 	}
 
 	//Perform various operations on the data
-	public void prcessGrades() 
+	public void processGrades() 
 	{
 		//Output grades array
 		outputGrades();
